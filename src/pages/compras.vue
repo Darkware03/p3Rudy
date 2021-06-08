@@ -85,11 +85,11 @@ export default {
       visa:false,
       nun_tarjeta:null,
       items:[
-        {imagen:"../img/rudy1.jpg",nombre:'RAM - GAMER',precio:'56.00',cantidad:0},
-        {imagen:"../img/rudy2.jpg",nombre:'RAM - NORMAL',precio:'43.00',cantidad:0},
-        {imagen:"../img/rudy3.jpeg",nombre:'MC CORE I5',precio:'105.50',cantidad:0},
-        {imagen:"../img/rudy4.png",nombre:'CASE GAMER',precio:'187.99',cantidad:0},
-        {imagen:"../img/rudy5.jpg",nombre:'CASE GAMER - DELUXE',precio:'285.97',cantidad:0},
+        {imagen:"rudy1.jpg",nombre:'RAM - GAMER',precio:'56.00',cantidad:0},
+        {imagen:"rudy2.jpg",nombre:'RAM - NORMAL',precio:'43.00',cantidad:0},
+        {imagen:"rudy3.jpeg",nombre:'MC CORE I5',precio:'105.50',cantidad:0},
+        {imagen:"rudy4.png",nombre:'CASE GAMER',precio:'187.99',cantidad:0},
+        {imagen:"rudy5.jpg",nombre:'CASE GAMER - DELUXE',precio:'285.97',cantidad:0},
       ]
     }),
     methods:{
